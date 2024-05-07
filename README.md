@@ -1,4 +1,4 @@
-# Anonymization of longitudial demographical data 
+# Anonymization of longitudinal demographic data
 
 ## ČDS 2024
 ## 22 – 24 MAY 2024
