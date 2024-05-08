@@ -2,7 +2,7 @@ Type of contribution
 Poster
 
 Title
-Anonymization of longitudial demographical data 
+Anonymization of longitudinal demographic data
 
 Abstract
 max. počet 1000 znaků
