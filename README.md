@@ -1,6 +1,6 @@
 # Anonymization of longitudinal demographic data
 
-## ČDS 2024 (Conference of Czech Demographic Society)
+## ČDS 2024 (53th Conference of Czech Demographic Society)
 ## 22 – 24 MAY 2024
 ## OLOMOUC, CZECHIA
 
