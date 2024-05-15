@@ -1,0 +1,161 @@
+Bibliography
+Stroke Recovery in Underserved Populations 2005-2006 [United States]
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 36422. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Ashaie, S.A.; Castro, N., "Complexity of participation post-stroke:
+Longitudinal assessment of community participation, positive affect, social
+support and functional independence." Journal of Rehabilitation Medicine.
+2022, 54,. DOI: 10.2340/jrm.v54.2238
+
+2. Ashaie, Sameer A.; Funkhouser, Carter J.; Jabbarinejad, Roxana; Cherney,
+Leora R.; Shankman, Stewart A., "Longitudinal trajectories of post-stroke
+depression symptom subgroups." Neurorehabilitation and Neural Repair. In
+Press 2022,. DOI: 10.1177/15459683221143464
+
+3. Ashaie, Sameer A.; Hung, Jinyi; Funkhouser, Carter J.; Shankman, Stewart
+A.; Cherney, Leora R., "Depression over time in persons with stroke: A
+network analysis approach." Journal of Affective Disorders Reports. in
+press 2021,. DOI: 10.1016/j.jadr.2021.100131
+
+4. Berges, Ivonne-M.; Kuo, Yong-Fang; Ottenbacher, Kenneth J.; Seale, Gary
+S.; Ostir, Glenn V., "Recovery of functional status after stroke in a tri-
+ethnic population." PM&R. Apr 2012, 4, (4), 290 - 295. DOI:
+10.1016/j.pmrj.2012.01.010
+
+5. Berges, Ivonne-M.; Seale, Gary S.; Ostir, Glenn V., "The role of
+positive affect on social participation following stroke." Disability and
+Rehabilitation. 2012, 34, (25), 2119 - 2123. DOI:
+10.3109/09638288.2012.673684
+
+6. Berges, Ivonne-M.; Seale, Gary; Ostir, Glenn V., "Positive affect and
+pain ratings in persons with stroke." Rehabilitation Psychology. Feb 2011,
+56, (1), 52 - 57. DOI: 10.1037/a0022683
+
+7. Castro, Nichol; Ashaie, Sameer, "Positive Affect, Community
+Participation, Social Support, and Functional Independence in Stroke
+Survivors with and without Aphasia: A Network Approach." EasyChair Preprint
+#6380, Preprint. Aug 26, 2021..
+
+8. Erler, Kimberly S.; Sullivan, Virginia; McKinnon, Sarah; Inzana,
+Rebecca, "Social support as a predictor of community participation after
+stroke." Frontiers in Neurology. in press 2019,. DOI:
+10.3389/fneur.2019.01013
+
+9. Erler, Kimberly; McKinnon, Sarah; Inzana, Rebecca, "Examining social
+support and participation after stroke." Archives of Physical Medicine and
+Rehabilitation. Dec 2018, 99, (12), e199 - e200. DOI:
+10.1016/j.apmr.2018.09.033
+
+10. Hong, Ickpyo; Knox, Sara; Pryor, Loree; Mroz, Tracy M.; Graham, James
+E.; Shields, Meredith F.; Reistetter, Timothy A., "Is referral to home
+health rehabilitation after inpatient rehabilitation facility associated
+with 90-day hospital readmission for adult patients with stroke?." American
+Journal of Physical Medicine and Rehabilitation. Sep 2020, 99, (9), 837 -
+841. DOI: 10.1097/PHM.0000000000001435
+
+11. Lau, Stephen C. L.; Baum, Carolyn M.; Connor, Lisa Tabor; Chang, Chih-
+Hung, "Psychometric properties of the Center for Epidemiologic Studies
+Depression (CES-D) scale in stroke survivors." Topics in Stroke
+Rehabilitation. In Press 2022, 1 - 10. DOI: 10.1080/10749357.2022.2026280
+
+12. Lau, Stephen C. L.; Drake, Bettina F.; Sanders-Thompson, Vetta L.;
+Baum, Carolyn M., "Racial variation in the association between domains of
+depressive symptomatology and functional recovery in stroke survivors."
+Journal of Racial and Ethnic Health Disparities. In Press 2022,. DOI:
+10.1007/s40615-022-01293-8
+
+13. Lau, Stephen C.L.; Connor, Lisa Tabor; Lee, Jin-Moo; Baum, Carolyn M.,
+"Depressive symptomatology and functional status among stroke survivors: A
+network analysis." Archives of Physical Medicine and Rehabilitation. in
+press 2022,. DOI: 10.1016/j.apmr.2022.01.143
+
+14. Li, Wei; Yang, Shu; Han, Peisong, "Robust estimation for moment
+condition models with data missing not at random." Journal of Statistical
+Planning and Inference. Jul 2020, 207, 246 - 254. DOI:
+10.1016/j.jspi.2020.01.001
+
+15. Liu, Jianxuan; Eftekharnejad, Sara, "Locally efficient semiparametric
+estimator for zero-inflated Poisson model with error-prone covariates."
+Journal of Statistical Computation and Simulation. 2021, 90, (6), 1092 -
+1107. DOI: 10.1080/00949655.2020.1840569
+
+16. Liu, Jianxuan; Li, Wei, "A semiparametric method for evaluating causal
+effects in the presence of error-prone covariates." Biometrical Journal.
+2021, 63, (6), 1202 - 1222. DOI: 10.1002/bimj.202000069
+
+17. Liu, Jianxuan; Ma, Yanyuan, "Locally efficient semiparametric
+estimators for a class of Poisson models with measurement error." Canadian
+Journal of Statistics. in press 2019,. DOI: 10.1002/cjs.11483
+
+18. Osman, Mohamed, "Novel machine learning approach for the prediction of
+length of hospital stay, complications, post discharge hospitalization and
+1-year survival after stroke." Presented at the World Federation of
+Neurology's XXVI World Congress of Neurology (WCN 2023), WCN, Montreal,
+Canada, Oct 15-19, 2023. DOI: 10.1016/j.jns.2023.122400
+
+19. Osman, Mohamed, "Novel machine learning approach for the prediction of
+length of hospital stay, complications, post discharge hospitalization and
+1-year survival after stroke." Abstracts from the World Congress of
+Neurology (WCN 2023). 2023, 122400. DOI:
+https://doi.org/10.1016/j.jns.2023.122400
+
+20. Ostir, Glenn V.; Berges, Ivonne-M.; Ottenbacher, Allison; Ottenbacher,
+Kenneth J., "Patterns of change in depression after stroke." Journal of the
+American Geriatrics Society. Feb 2011, 59, (2), 314 - 320. DOI:
+10.1111/j.1532-5415.2010.03266.x
+
+21. Ostir, Glenn V.; Berges, Ivonne-Marie; Ottenbacher, Margaret E.; Clow,
+Angela; Ottenbacher, Kenneth J., "Associations between positive emotion and
+recovery of functional status following stroke." Psychosomatic Medicine.
+May 2008, 70, (4), 404 - 409. DOI: 10.1097/PSY.0b013e31816fd7d0
+
+22. Ostir, Glenn V.; Berges, Ivonne; Ottenbacher, Margaret; Graham, James
+E.; Ottenbacher, Kenneth J., "Positive emotion following a stroke." Journal
+of Rehabilitation Medicine. Jun 2008, 40, (6), 477 - 481. DOI:
+10.2340/16501977-0193
+
+23. Pritchard, Kevin T.; Hreha, Kimberly P.; Hong, Ickpyo, "Dysphagia
+associated with risk of depressive symptoms among stroke survivors after
+discharge from a cluster of inpatient rehabilitation facilities."
+Swallowing Rehabilitation. Mar 31, 2020, 3, (1), 33 - 44.
+Full text: https://www.earticle.net/Article/A370747
+
+24. Seale, Gary S.; Berges, Ivonne-Marie; Ottenbacher, Kenneth J.; Ostir,
+Glenn V., "Change in positive emotion and recovery of functional status
+following stroke." Rehabilitation Psychology. Feb 2010, 55, (1), 33 - 39.
+DOI: 10.1037/a0018744
+Full text: https://www.earticle.net/Article/A370747
+
+25. Shields, Meredith F.; Wimberly, Samantha; Hong, Ickpyo;
+Pryor, Loree; Reistetter, Timothy A., "Home health prescription and 90-day
+readmission following stroke." Presented at the Texas Occupational Therapy
+Association 2018 Mountain Central Conference, Sugarland, TX, Nov 2-4, 2018.
+Full text PDF: https://www.tota.org/assets/MCC/SessionHANDOUTS/214%20A%20-%20A%20%26%20B.pdf
+
+26. Simmonds, Kent P.; Luo, Zhehui; Reeves, Mathew, "Race/ethnic and stroke
+subtype differences in post-stroke functional recovery following acute
+rehabilitation." Archives of Physical Medicine and Rehabilitation. 2021,
+102, (8), 1473 - 1481. DOI: 10.1016/j.apmr.2021.01.090
+Full text PDF: https://www.tota.org/assets/MCC/SessionHANDOUTS/214%20A%20-%20A%20%26%20B.pdf
+
+27. Williams, Michael W.; Li, Chih-Ying; Hay, Catherine C., "Validation of
+the 10-item Center for Epidemiologic Studies Depression Scale post stroke."
+Journal of Stroke and Cerebrovascular Diseases. Dec 2020, 29, (12),. DOI:
+10.1016/j.jstrokecerebrovasdis.2020.105334
+Full text PDF: https://www.tota.org/assets/MCC/SessionHANDOUTS/214%20A%20-%20A%20%26%20B.pdf
+
+28. Wong, Alex; Wang, Jiayu; Fong, Mandy; Baum, Carolyn; Ottenbacher,
+Kenneth; Lenze, Eric, "Cross-lagged panel approach to understanding
+depression and functional status in the first year after stroke." American
+Journal of Occupational Therapy. 2020, 74,. DOI: 10.5014/ajot.2020.74S1-
+RP302C
+Full text PDF: https://www.tota.org/assets/MCC/SessionHANDOUTS/214%20A%20-%20A%20%26%20B.pdf
