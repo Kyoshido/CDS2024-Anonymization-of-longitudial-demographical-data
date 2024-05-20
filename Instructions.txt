@@ -1,8 +1,0 @@
-language: Czech, Slovak, English
-
-poster format: e-poster 
-(please do not print the poster, it is not possible to display it at the venue)
-- within the poster section, there will be an opportunity to present the main results in the form of a poster projection on the screen in the main conference room - the duration of the poster presentation is a maximum of 2 minutes
-- posters will also be continuously presented during "coffee-breaks", in the form of starting a "loop" of previously sent posters, which will be projected both on the screen in the meeting room and on the large screen in the hall (suitable for informal discussion)
-- we therefore recommend creating the poster in the form of one slide (ideally in PowerPoint), or as an image that will be in "landscape" format
-- For the above reasons, e-posters must be sent electronically to this e-mail address no later than Sunday, May 19, 2024

@@ -1,0 +1,53 @@
+File Manifest for ICPSR 36422
+
+Ostir, Glenn, Kenneth Ottenbacher, and Yong Fang Kuo. Stroke Recovery in
+Underserved Populations 2005-2006 [United States]. ICPSR36422-v1. Ann
+Arbor, MI: Inter-university Consortium for Political and Social Research
+[distributor], 2016-05-03. http://doi.org/10.3886/ICPSR36422.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36422-descriptioncitation.pdf       -       -         -       2021-09-01  -
+
+    36422-related_literature.txt        -       -         -       daily       -
+
+    36422-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Stroke Recovery in Underserved Populations 2005-2006 [United States]
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36422-0001-Codebook.pdf             -       -         -       2016-05-03  2f9434727d6d9f538de9f70b25cb7d5f
+
+    36422-0001-Data.dta                 -       1,219     226     2016-05-03  576f84a337a2bef4b22faf81b78f3c57
+
+    36422-0001-Data.rda                 -       1,219     226     2016-05-03  e01b46a0246d058e1ce4aad9453aa3a8
+
+    36422-0001-Data.sav                 -       1,219     226     2016-05-03  41b390ae8020e044d2f0d618470d3146
+
+    36422-0001-Data.stc                 -       1,219     226     2016-05-03  3c13e7d89d35328fe8175c91887d0f26
+
+    36422-0001-Data.tsv                 -       1,219     226     2016-05-03  8be6410cd4efc7fd281eaaf4437b2d33
+
+    36422-0001-Data.txt                 480     1,219     226     2016-05-03  a65868f1272a0aa305eb047ec1e53870
+
+    36422-0001-Questionnaire.pdf        -       -         -       2016-05-03  fdf4fe09e42b674d87be9fede93100f9
+
+    36422-0001-Setup.dct                -       -         -       2016-05-03  7456b17c1ea295cc09b2a1f91ac6c5c7
+
+    36422-0001-Setup.do                 -       -         -       2016-05-03  4ab9d2af0e00efcb31f5d5d3ace1ccf1
+
+    36422-0001-Setup.sas                -       -         -       2016-05-03  c85aca9ad3b6dfc0e0afa2537050cc5d
+
+    36422-0001-Setup.sps                -       -         -       2016-05-03  4152427f49647d4b174a3f2e40070c0e
+
+    36422-0001-Supplemental_syntax.do   -       -         -       2016-05-03  e624719f29a6618e8bc3134039995ec8
+
+    36422-0001-Supplemental_syntax.sas  -       -         -       2016-05-03  873abcbf73193b1d632c5d79b792407b
+
