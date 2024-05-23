@@ -1,9 +1,12 @@
-Dobrý den, jmenuji se Jiří Novák a dnes bych vám rád představil svůj výzkum na kterém pracuji ve Švýcarsku. Na univerzitě v Curychu studuji druhý doktorát, jsem členem výzkumného týmu na Universitě Severozápadního Švýcarska a na začátku roku jsem s kolegy založil Švýcarské kompetenční centrum pro anonymizaci dat za účelem poskytování služeb v této oblasti.
-Ve svém výzkumu se zaměřuji na bezpečnou diseminaci datových souborů a v našem grantu se snažíme o vytvoření rámce pro longitudinální data. Demografické proměnné v datových souborech tohoto typu jsou vysoce citlivé na opětovnou identifikaci, což znamená, že případný útočník je může snadno použít pro získání nových informaci o určitém respondentovi. A to je naprosto nepřijatelné.
-Z tohoto důvodu nelze mnoho datových souborů šířit, přičemž je v obecném zájmu, aby aspoň vědecká komunita k nim měla přístup. A proto přichází na řadu metody statistické ochrany důvěrnosti a datové anonymizace.
-Pomocí těchto metod dokážeme upravit data tak, aby stále přibližně odrážela skutečná data, ale již nemohla být zneužita. Nejen, že jsme ze zákona povinni chránit citlivá data, ale je také zásadní, abychom chránili pověst národních statistických úřadů a agentur.
-Tradiční metody statistické důvěrnosti nejsou úplně vhodné k řádné ochraně longitudinálních dat při zachování jejich užitečnosti. Proto zde zkoumáme generování syntetických dat, což znamená vytvoření umělého souboru dat se zachovanými všemi základními statistickými rysy originálu.
+Dobrý den, jmenuji se Jiří Novák a dnes bych vám rád představil svůj výzkum na kterém pracuji ve Švýcarsku. Na univerzitě v Curychu studuji druhý doktorát, jsem členem výzkumného týmu na Universitě Severozápadního Švýcarska a na začátku roku jsem s kolegy založil Švýcarské kompetenční centrum pro anonymizaci dat (za účelem poskytování služeb v této oblasti).
+
+Ve svém výzkumu se zaměřuji na bezpečnou diseminaci datových souborů a v našem grantu se snažíme o vytvoření open-source rámce pro longitudinální data. Demografické proměnné v datových souborech tohoto typu jsou vysoce citlivé na opětovnou identifikaci, což znamená, že případný útočník je může snadno použít pro získání nových informaci o určitém respondentovi. A to je naprosto nepřijatelné.
+
+Z tohoto důvodu nelze mnoho datových souborů šířit, přičemž je v obecném zájmu, aby aspoň vědecká komunita k nim měla přístup. (Nejen, že jsme ze zákona povinni chránit citlivá data, ale je také zásadní, abychom chránili pověst národních statistických úřadů a agentur.) A proto přichází na řadu metody statistické ochrany důvěrnosti a datové anonymizace.
+
+(Pomocí těchto metod dokážeme upravit data tak, aby stále přibližně odrážela skutečná data, ale již nemohla být zneužita.) Tradiční metody statistické důvěrnosti nejsou úplně vhodné k řádné ochraně longitudinálních dat při zachování jejich užitečnosti. Proto zde zkoumáme generování syntetických dat, což znamená vytvoření umělého souboru dat se zachovanými všemi základními statistickými rysy originálu.
+
 V tomto ilustrativním příkladu jsem využil data z Panelové studie dynamiky příjmů a k simulaci demografických proměnných jsem použil regresní strom s algoritmem XGBoost. Pro vyhodnocení jednorozměrné užitečnosti jsem vám zde vybral proměnou věku a můžete zde vidět box ploty v jednotlivých letech a dolní části jejich histogram. Boxploty jsou vedle sebe téměř identické a histogramy původních a syntetických dat se mi prakticky překrývají. To vyhodnocujeme úspěch pro evaluaci užitečnosti. Na tomto plátně to úplně ale neoceníte. 
 
-Závěrem bych Vás chtěl pozvat na diskuzi, hlavně pokud máte zkušenost s longitudinálními daty.
-Děkuji.
+Závěrem bych Vás chtěl pozvat mě oslovit, hlavně pokud máte zkušenost s longitudinálními daty.
+
